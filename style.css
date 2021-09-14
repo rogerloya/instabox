@@ -1,0 +1,44 @@
+.parent {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}
+
+.categories {
+    padding: 10px;
+    margin: 10px;
+}
+
+.icon {
+    padding: 10px;
+    margin: 10px;
+    flex: 2;
+}
+
+.information {
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex: 2;
+}
+
+.ig_check {
+
+}
+
+img {
+    border-radius: 500px;
+    margin-left: 35px;
+    margin-right: 35px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
